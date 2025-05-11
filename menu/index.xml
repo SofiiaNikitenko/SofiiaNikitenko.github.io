@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Menus on My Hugo Site</title>
+    <link>https://your-site-name.github.io/menu/</link>
+    <description>Recent content in Menus on My Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 May 2025 17:58:29 +0300</lastBuildDate>
+    <atom:link href="https://your-site-name.github.io/menu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Page</title>
+      <link>https://your-site-name.github.io/menu/new-page/</link>
+      <pubDate>Sun, 11 May 2025 17:58:29 +0300</pubDate>
+      <guid>https://your-site-name.github.io/menu/new-page/</guid>
+      <description>&lt;p&gt;#New page (God help me)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
